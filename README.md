@@ -18,5 +18,3 @@
 <a href="https://fb.com/gustavo.gouvea.560" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Gustavo121" height="20" width="20" /></a>
 <a href="https://instagram.com/gustavogouvea_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Gustavo121" height="20" width="20" /></a>
 </p>
-
-
