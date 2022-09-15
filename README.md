@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working at Academy Sports.
-- 🌱 I’m currently learning HTML, CSS, Java Script, NODE
+- 🌱 I’m currently learning HTML, CSS, Java Script, NODE, ReactJS
 - 📫 How to reach me: @gustgouvea
 
 <p align="left">
