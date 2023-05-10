@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working at Academy Sports.
-- 🌱 I’m currently learning HTML, CSS, Java Script, NODE, ReactJS
+- 🌱 I’m currently learning HTML, CSS, JavaScript, NodeJS, ReactJS, TypeScript.
 - 📫 How to reach me: @gustgouvea
 
 <p align="left">
@@ -16,5 +16,5 @@
 <a href="https://twitter.com/gustgouvea" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Gustavo121" height="20" width="20" /></a>
 <a href="https://fb.com/gustavo.gouvea.560" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Gustavo121" height="20" width="20" /></a>
 <a href="https://instagram.com/gustavogouvea_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Gustavo121" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/luis-gustavo-gouv%C3%AAa-dami%C3%A3o-alves-8a7232224/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Gustavo121" height="20" width="20" /></a>
+<a href="linkedin.com/in/luis-gustavo-gouvêa-8a7232224" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Gustavo121" height="20" width="20" /></a>
 </p>
